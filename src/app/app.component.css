@@ -1,0 +1,15 @@
+p{
+    color: red;
+}
+
+H3{
+    color : blue;
+}
+
+.table {
+    width: 100%;
+    position: relative;
+    display: flex; 
+    justify-content: center;
+}
+  

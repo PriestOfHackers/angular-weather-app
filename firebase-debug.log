@@ -1,0 +1,25 @@
+[debug] [2021-01-24T17:39:24.985Z] ----------------------------------------------------------------------
+[debug] [2021-01-24T17:39:24.990Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Paseka\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-01-24T17:39:24.990Z] CLI Version:   9.2.2
+[debug] [2021-01-24T17:39:24.990Z] Platform:      win32
+[debug] [2021-01-24T17:39:24.991Z] Node Version:  v12.18.4
+[debug] [2021-01-24T17:39:24.993Z] Time:          Sun Jan 24 2021 19:39:24 GMT+0200 (South Africa Standard Time)
+[debug] [2021-01-24T17:39:24.993Z] ----------------------------------------------------------------------
+[debug] [2021-01-24T17:39:24.993Z] 
+[debug] [2021-01-24T17:39:25.005Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-01-24T17:39:25.007Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Paseka\Desktop\Angular-weather-app\angular-weather-app
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
